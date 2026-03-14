@@ -74,5 +74,5 @@ Custo estimado: R$ 33.75
 
 ## 📚 Projeto educacional
 
-Projeto desenvolvido como parte de um exercício de iniciação em tecnologia e programação, com o objetivo de praticar lógica de programação e organização de projetos em repositórios.
+Projeto desenvolvido como parte de um exercício de iniciação em tecnologia e programação, com o objetivo de praticar lógica de programação e organização de projetos em repositórios. by Rafael Camargo Gomes
 
